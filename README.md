@@ -1,0 +1,2 @@
+# Polecenie
+Wzorzec projektowy Polecenie
